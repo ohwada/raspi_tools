@@ -3,7 +3,7 @@
 
 Tools for Raspberry Pi
 
-## Raspberry Pi
+## on Raspberry Pi
 ### expand_rootfs.sh
 Expand root filesystems to any size. <br/>
 base on Expand Filesystems of raspi-config.  <br/>
@@ -13,7 +13,7 @@ usage <br/>
 
 default size is 5GB <br/>
 
-## MAC
+## on MAC
 ### backup_sd.py
 Backup SD card of Raspberry Pi. <br/>
 
