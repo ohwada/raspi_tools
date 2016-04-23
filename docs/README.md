@@ -6,6 +6,10 @@ Tools for Raspberry Pi
 Expand root filesystems to any size <br/>
 https://github.com/ohwada/raspi_tools/blob/master/docs/backup_sd.md
 
+### keyboard
+Keyboard default file for Japanese 109 keyboard <br/>
+https://github.com/ohwada/raspi_tools/blob/master/docs/keyboard.md
+
 ### vncboot
 Script to start tightvncserver deamon <br/>
 https://github.com/ohwada/raspi_tools/blob/master/docs/vncboot.md

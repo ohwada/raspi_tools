@@ -7,7 +7,7 @@ Expand root filesystems to any size <br/>
 https://github.com/ohwada/raspi_tools/blob/master/docs/backup_sd.md
 
 ### keyboard
-Keyboard default file for Japanese 109 keyboard
+Keyboard default file for Japanese 109 keyboard <br/>
 https://github.com/ohwada/raspi_tools/blob/master/docs/keyboard.md
 
 ### vncboot
